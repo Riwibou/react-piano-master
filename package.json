@@ -71,6 +71,7 @@
     "iltorb": "^2.4.5",
     "just-range": "^2.1.0",
     "lodash.difference": "^4.5.0",
+    "postcss": "^8.4.38",
     "prop-types": "^15.6.2",
     "yarn": "^1.22.22"
   }
